@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name = "Generative AI Project",
+    name = "Generative_AI_Project",
     version = "0.0.0",
     author = "George Sebastian Cucuiet",
     author_email = "code@sudo-ai.com",
